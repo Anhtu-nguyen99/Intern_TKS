@@ -1,0 +1,9 @@
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\bin\Debug\TKS_Thuc_Tap_Entity.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\bin\Debug\TKS_Thuc_Tap_Entity.pdb
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\bin\Debug\TKS_Thuc_Tap_Utility.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\bin\Debug\TKS_Thuc_Tap_Utility.pdb
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\obj\Debug\TKS_Thuc_Tap_Entity.csprojAssemblyReference.cache
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\obj\Debug\TKS_Thuc_Tap_Entity.csproj.CoreCompileInputs.cache
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\obj\Debug\TKS_Thuc_Tap_Entity.csproj.CopyComplete
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\obj\Debug\TKS_Thuc_Tap_Entity.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Entity\obj\Debug\TKS_Thuc_Tap_Entity.pdb

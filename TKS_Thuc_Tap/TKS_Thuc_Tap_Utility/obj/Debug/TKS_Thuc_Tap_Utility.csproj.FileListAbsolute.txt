@@ -1,0 +1,7 @@
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\bin\Debug\TKS_Thuc_Tap_Utility.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\bin\Debug\TKS_Thuc_Tap_Utility.pdb
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\obj\Debug\TKS_Thuc_Tap_Utility.csproj.ResolveComReference.cache
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\obj\Debug\TKS_Thuc_Tap_Utility.csproj.CoreCompileInputs.cache
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\obj\Debug\TKS_Thuc_Tap_Utility.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\obj\Debug\TKS_Thuc_Tap_Utility.pdb
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Utility\obj\Debug\TKS_Thuc_Tap_Utility.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_DataLayer.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_DataLayer.pdb
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_Utility.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_Utility.pdb
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csprojAssemblyReference.cache
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CoreCompileInputs.cache
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CopyComplete
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.dll
+D:\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.pdb

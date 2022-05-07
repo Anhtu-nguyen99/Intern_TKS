@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKS_Thuc_Tap_Controller", "TKS_Thuc_Tap_Controller\TKS_Thuc_Tap_Controller.csproj", "{19905F36-3BF5-4FD8-9BED-4E9E214E0D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKS_Thuc_Tap_DataLayer", "TKS_Thuc_Tap_DataLayer\TKS_Thuc_Tap_DataLayer.csproj", "{61BF14BA-157D-4B55-BA96-6D84D3E9153A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKS_Thuc_Tap_Entity", "TKS_Thuc_Tap_Entity\TKS_Thuc_Tap_Entity.csproj", "{EC2F3E72-A5A3-4323-B763-BD28E851207F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKS_Thuc_Tap_Utility", "TKS_Thuc_Tap_Utility\TKS_Thuc_Tap_Utility.csproj", "{96505A20-0887-4345-8344-620D4015E7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKS_Thuc_Tap_Web", "TKS_Thuc_Tap_Web\TKS_Thuc_Tap_Web.csproj", "{6ED041D0-BEF2-4AB5-8F91-CF5417872BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKS_Thuc_Tap_Report", "TKS_Thuc_Tap_Report\TKS_Thuc_Tap_Report.csproj", "{4480BE30-C778-4C6A-AA32-EF551189BCF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19905F36-3BF5-4FD8-9BED-4E9E214E0D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19905F36-3BF5-4FD8-9BED-4E9E214E0D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19905F36-3BF5-4FD8-9BED-4E9E214E0D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19905F36-3BF5-4FD8-9BED-4E9E214E0D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BF14BA-157D-4B55-BA96-6D84D3E9153A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BF14BA-157D-4B55-BA96-6D84D3E9153A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BF14BA-157D-4B55-BA96-6D84D3E9153A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BF14BA-157D-4B55-BA96-6D84D3E9153A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2F3E72-A5A3-4323-B763-BD28E851207F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2F3E72-A5A3-4323-B763-BD28E851207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2F3E72-A5A3-4323-B763-BD28E851207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2F3E72-A5A3-4323-B763-BD28E851207F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96505A20-0887-4345-8344-620D4015E7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96505A20-0887-4345-8344-620D4015E7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96505A20-0887-4345-8344-620D4015E7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96505A20-0887-4345-8344-620D4015E7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED041D0-BEF2-4AB5-8F91-CF5417872BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED041D0-BEF2-4AB5-8F91-CF5417872BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED041D0-BEF2-4AB5-8F91-CF5417872BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED041D0-BEF2-4AB5-8F91-CF5417872BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4480BE30-C778-4C6A-AA32-EF551189BCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4480BE30-C778-4C6A-AA32-EF551189BCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4480BE30-C778-4C6A-AA32-EF551189BCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4480BE30-C778-4C6A-AA32-EF551189BCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F95A97-051F-4DC3-B3FD-7A0043125DB8}
+	EndGlobalSection
+EndGlobal
